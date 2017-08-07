@@ -4,15 +4,15 @@ Welcome to your new gem! In this directory, you'll find the files you need to be
 
 ## Links
 
-Aruba: https://github.com/cucumber/aruba
-RSpec|Cucumber Aruba https://relishapp.com/cucumber/aruba/v/0-8-1/docs/rspec/getting-started-with-rspec-and-aruba
-Gem + Cucumber guide: https://github.com/radar/guides/blob/master/gem-development.md
+- Aruba: https://github.com/cucumber/aruba
+- RSpec|Cucumber Aruba https://relishapp.com/cucumber/aruba/v/0-8-1/docs/rspec/getting-started-with-rspec-and-aruba
+- Gem + Cucumber guide: https://github.com/radar/guides/blob/master/gem-development.md
 
 ## RSpec + Cucumber
 
-After checking out the repo, run `bundle` to install dependencies.
-Run Cucumber tests `cucumber features`
-Run RSpec tests `rspec spec`
+- After checking out the repo, run `bundle` to install dependencies.
+- Run Cucumber tests `cucumber features`
+- Run RSpec tests `rspec spec`
 
 ## License
 
