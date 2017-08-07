@@ -1,4 +1,4 @@
-Feature: Food
+Feature: Commands
   In order to portray or pluralize food
   As a CLI
   I want to be as objective as possible

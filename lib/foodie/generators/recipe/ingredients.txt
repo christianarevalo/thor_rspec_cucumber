@@ -1,0 +1,2 @@
+##### Ingredients #####
+Ingredients for delicious <%= name %> go here.
